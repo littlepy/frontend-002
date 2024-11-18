@@ -22,7 +22,7 @@ body {
 article.card {
     display: flex;
     flex-direction: column;
-    width: 380px;
+    width: 370px;
     padding: 20px;
     background-color: white;
     border: 1px solid black;
